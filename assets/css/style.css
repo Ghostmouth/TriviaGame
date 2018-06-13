@@ -1,0 +1,51 @@
+.topScreen {
+    box-sizing: border-box;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  .main-button-container {
+    margin-top: 180px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .timer-p {
+    margin-top: 50px;
+  }
+  
+  .answer:hover {
+    background: green;
+  }
+  
+  .answer {
+    padding-top: 5px;
+    height: 50px;
+    color: white;
+    padding-left: 15px;
+    background-color: black;
+    border-radius: 5px;
+  }
+  
+  .img-wrong {
+    margin-top: 50px;
+  }
+  
+  .first-answer {
+    margin-top: 50px;
+  }
+  
+  .reset-button {
+    margin-top: 50px;
+  }
+  
+  .summary-correct {
+    margin-top: 50px;
+  }
+  
+  body {
+    background-color: pink;
+    color: white;
+    font-size: 25px;
+  }
